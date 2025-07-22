@@ -70,6 +70,11 @@ Repeat for `num_iterations`. After convergence:
 | Processing time         | Use `NumPy`, `Numba`, or GPU acceleration (`CuPy`, `PyTorch`)            |
 
 ---
+##example with images 
+<img width="1022" height="523" alt="image" src="https://github.com/user-attachments/assets/7d57540c-0991-43f1-98df-223721701414" />
+<img width="1031" height="523" alt="image" src="https://github.com/user-attachments/assets/99083baa-49d1-42d9-ba7e-21536a3ed103" />
+<img width="1030" height="520" alt="image" src="https://github.com/user-attachments/assets/eb5cdf0c-5b1c-4815-879e-6281700d4b83" />
+
 
 ## 💻 Example: Python Code Using scikit-learn
 
